@@ -11,7 +11,7 @@ pnpm add -D @himenon/datadog-typescript-openapi
 ## Usage
 
 ```ts
-import { Client } from "@himenon/datadog-typescript-openapi/v1.22.3";
+import { Client } from "@himenon/datadog-typescript-openapi/v1.0.0-beta.9";
 ```
 
 ## Build
